@@ -9,8 +9,11 @@ padding:15px;
 .color-white{
  color: white;
 }
-.front-size16{
- font-size: 16px;
+.color#333{
+color: #333;
+}
+.font-size16{
+font-size: 16px;
 }
 header {
     background-color: #333;
@@ -23,9 +26,7 @@ header h1 {
 
 nav a {
     text-decoration: none;
-    margin-right: 15px;
-    font-size: 16px;
-}
+    margin-right: 15px;}
 
 section {
     margin: 20px;
@@ -33,7 +34,6 @@ section {
 
 section h2 {
     font-size: 22px;
-    color: #333;
 }
 
 section div {
@@ -44,11 +44,9 @@ section div {
 
 section div h3 {
     font-size: 18px;
-    color: #333;
 }
 
 section div p {
-    font-size: 16px;
     color: #555;
 }
 
@@ -67,7 +65,6 @@ aside {
 
 aside h2 {
     font-size: 20px;
-    color: #333;
 }
 
 aside ul {
@@ -76,7 +73,6 @@ aside ul {
 }
 
 aside ul li {
-    font-size: 16px;
     color: #555;
     margin-bottom: 5px;
 }
